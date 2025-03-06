@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello, I'm Dimitar Srabski
 
-<!--
-**DimitarSr/DimitarSr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Age:** 21  
+**Status:** Student studying JavaScript and React
 
-Here are some ideas to get you started:
+Hello! I'm Dimitar Srabski, a 21-year-old passionate about programming. I am currently focusing on learning JavaScript, React, and related technologies. My efforts are dedicated to refining my skills to create clean, efficient code and intuitive user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core Skills:**
+- JavaScript (ES6+)
+- React
+- HTML5 & CSS3
+- TypeScript (currently learning)
+- Version Control (Git)
+- Clean Code Practices
+
+**About Me:**
+- I love solving problems and learning new technologies.
+- I strive for professional development and continuous improvement.
+- I work on various projects to build a portfolio that reflects my skills and ambitions.
+
+**Contact:**  
+Feel free to reach out via email: [dimitarsrabski03@outlook.com](mailto:dimitarsrabski03@outlook.com)
