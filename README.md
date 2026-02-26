@@ -20,5 +20,5 @@ Motivated Web Developer with a strong passion for building high-quality web appl
 * Basic SEO
 
 ### 📬 Contact
-* 📧 **Email**: [dimitarsr2003@gmail.com](mailto:dimitarsr2003@gmail.com)
+* 📧 **Email**: [dimitarsrabski03@gmail.com](mailto:dimitarsrabski03@gmail.com)
 * 📍 **Location**: Asenovgrad, Bulgaria
