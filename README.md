@@ -1,25 +1,24 @@
-# Hello, I'm Dimitar Srabski 👋
+# Hi there, I'm Dimitar Srabski! 👋
 
-**Age:** 21  
-**Status:** Student focused on JavaScript and React 🚀
+Motivated Web Developer with a strong passion for building high-quality web applications, websites, e-commerce stores, and diverse web solutions. I combine a solid technical understanding of web development with professional experience in the digital marketing field. I am constantly striving to improve my skills and learn new technologies to stay ahead in the rapidly evolving tech industry.
 
-I'm Dimitar Srabski – a 21-year-old developer passionate about web technologies. I'm currently focused on learning JavaScript, React, and modern tools that help build clean, responsive, and user-friendly web applications. I aim to write clean, maintainable code and create intuitive user experiences.✨
+### 🚀 Quick Summary
+* 🎓 **Education**: Completed a 6-month intensive program at **Telerik Academy** with an Excellent grade of **5.94**.
+* 💼 **Experience**: Former **Website Manager** at AP Marketing, working with WordPress, WooCommerce, OpenCart, and Shopify.
+* 🤖 **AI**: Actively striving and learning how to maximize the potential of Artificial Intelligence.
+* 📈 **Growth**: Constantly focused on improving my skills and upgrading my knowledge.
 
+### 🛠 Tech Stack
+* HTML, CSS, JavaScript (ES6+)
+* React, Next.js, TypeScript, Vite
+* Tailwind CSS, Bootstrap
+* WordPress, WooCommerce, Shopify
+* AI for Development and Coding
+* AI for Content Creation and Advertising
+* Firebase, Supabase
+* Git, GitHub
+* Basic SEO
 
-
-**Core Skills:**
-- JavaScript (ES6+) 
-- React ⚛
-- HTML5 & CSS3 
-- TailwindCSS (currently learning)
-- TypeScript (currently learning) 
-- Version Control (Git) 
-- Clean Code Practices 
-
-**About Me:**
-- I love solving problems and learning new technologies. 🧩
-- I strive for professional development and continuous improvement. 📈
-- I work on various projects to build a portfolio that reflects my skills and ambitions. 🎯
-
-**Contact:**  
-Feel free to reach out via email: [dimitarsrabski03@outlook.com](mailto:dimitarsrabski03@outlook.com) 📧
+### 📬 Contact
+* 📧 **Email**: [dimitarsr2003@gmail.com](mailto:dimitarsr2003@gmail.com)
+* 📍 **Location**: Asenovgrad, Bulgaria
