@@ -8,6 +8,9 @@ Motivated Web Developer with a strong passion for building high-quality web appl
 * 🤖 **AI**: Striving and learning how to maximize the potential of Artificial Intelligence.
 * 📈 **Growth**: Constantly focused on improving my skills and upgrading my knowledge.
 
+### 🔥 Latest Project: [HIDDEN-MSG](https://hidden-msg.vercel.app/)
+*A high-security image steganography tool built with **Next.js**. It allows users to hide secret messages within images using military-grade protection logic.*
+
 ### 🌐 Projects I have built and managed
 *This is a small selection of the many e-commerce stores and corporate websites I have built and managed:*
 
@@ -28,7 +31,7 @@ Motivated Web Developer with a strong passion for building high-quality web appl
 * Tailwind CSS, Bootstrap
 * WordPress, WooCommerce, Shopify, OpenCart
 * AI for Development and Coding
-* AI for Content Creation and Advertising
+* Facebook Ads, Advertising & AI Content Creation
 * Firebase, Supabase
 * Git, GitHub
 * Basic SEO
